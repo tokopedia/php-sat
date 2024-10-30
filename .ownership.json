@@ -1,0 +1,14 @@
+{
+    "repository_name": "php-sat",
+    "description": "PHP SDK for PT SAT (Satria Abadi Terpadu)",
+    "directorate": "DGTL",
+    "namespace": "digital-b2b2c",
+    "security_owner": "azdim.fahmi@bytedance.com",
+    "app": [{
+     "name": "php-sat",
+      "description": "PHP SDK for PT SAT (Satria Abadi Terpadu)",
+       "owner": "azdim.fahmi@bytedance.com",
+        "slack_channel": "php-sat"
+}],
+    "last_update": "29/10/2024"
+}
