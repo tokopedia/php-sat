@@ -8,7 +8,7 @@
  * @package  Sat\ClientSdk
  * @author   egon12 <egon.firman@bytedance.com>
  * @license  MIT https://opensource.org/license/MIT
- * @link     https://github.com/tokopedia/sat-client-sdk
+ * @link     https://github.com/tokopedia/php-sat
  */
 namespace Sat\ClientSdk;
 
