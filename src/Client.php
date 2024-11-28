@@ -41,7 +41,7 @@ use phpseclib3\Crypt\RSA;
  * @package  Sat\ClientSdk
  * @author   egon12 <egon.firman@bytedance.com>
  * @license  MIT https://opensource.org/license/MIT
- * @link     https://github.com/tokopedia/sat-client-sdk
+ * @link     https://github.com/tokopedia/php-sat
  */
 class Client
 {
@@ -78,7 +78,7 @@ class Client
             'base_uri'        => $baseUrl,
             'timeout'         => $timeout,
             'headers'         => [ 
-            'User-Agent' => 'PhpSatSDK/1.0', 
+            'X-Sat-Sdk-Version' => 'php-sat@1.0',
             'Accept' => 'application/json' ],
             ]
         );
